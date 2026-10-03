@@ -1,0 +1,141 @@
+{
+  "shared": [
+    "T_DinoSkinDetail_5_N.png",
+    "T_SkinNoise_M.png"
+  ],
+  "dinosaurs": [
+    {
+      "id": "Austroraptor",
+      "folder": "Austroraptor",
+      "name": "Austroraptor",
+      "hasMouthClaws": false,
+      "complete": true
+    },
+    {
+      "id": "Ceratosaurus",
+      "folder": "Ceratosaurus",
+      "name": "Ceratosaurus",
+      "hasMouthClaws": true,
+      "complete": true
+    },
+    {
+      "id": "Deinosuchus",
+      "folder": "Deinosuchus",
+      "name": "Deinosuchus",
+      "hasMouthClaws": true,
+      "complete": true
+    },
+    {
+      "id": "Diabloceratops",
+      "folder": "Diabloceratops",
+      "name": "Diabloceratops",
+      "hasMouthClaws": true,
+      "complete": true
+    },
+    {
+      "id": "Dilophosaurus",
+      "folder": "Dilophosaurus",
+      "name": "Dilophosaurus",
+      "hasMouthClaws": false,
+      "complete": true
+    },
+    {
+      "id": "Dryosaurus",
+      "folder": "Dryosaurus",
+      "name": "Dryosaurus",
+      "hasMouthClaws": true,
+      "complete": true
+    },
+    {
+      "id": "Gallimimus",
+      "folder": "Gallimimus",
+      "name": "Gallimimus",
+      "hasMouthClaws": true,
+      "complete": true
+    },
+    {
+      "id": "Herrerasaurus",
+      "folder": "Herrerasaurus",
+      "name": "Herrerasaurus",
+      "hasMouthClaws": false,
+      "complete": true
+    },
+    {
+      "id": "Hypsilophodon",
+      "folder": "Hypsilophodon",
+      "name": "Hypsilophodon",
+      "hasMouthClaws": false,
+      "complete": true
+    },
+    {
+      "id": "Kentrosaurus",
+      "folder": "Kentrosaurus",
+      "name": "Kentrosaurus",
+      "hasMouthClaws": true,
+      "complete": true
+    },
+    {
+      "id": "Maiasaura",
+      "folder": "Maiasaura",
+      "name": "Maiasaura",
+      "hasMouthClaws": true,
+      "complete": true
+    },
+    {
+      "id": "Omniraptor",
+      "folder": "Omniraptor",
+      "name": "Omniraptor",
+      "hasMouthClaws": true,
+      "complete": true
+    },
+    {
+      "id": "Pachycephalosaurus",
+      "folder": "Pachycephalosaurus",
+      "name": "Pachycephalosaurus",
+      "hasMouthClaws": true,
+      "complete": true
+    },
+    {
+      "id": "Pteranodon",
+      "folder": "Pteranodon",
+      "name": "Pteranodon",
+      "hasMouthClaws": true,
+      "complete": true
+    },
+    {
+      "id": "Stegosaurus",
+      "folder": "Stegosaurus",
+      "name": "Stegosaurus",
+      "hasMouthClaws": true,
+      "complete": true
+    },
+    {
+      "id": "Tenontosaurus",
+      "folder": "Tenontosaurus",
+      "name": "Tenontosaurus",
+      "hasMouthClaws": true,
+      "complete": true
+    },
+    {
+      "id": "Triceratops",
+      "folder": "Triceratops",
+      "name": "Triceratops",
+      "hasMouthClaws": true,
+      "complete": true
+    },
+    {
+      "id": "Troodon",
+      "folder": "Troodon",
+      "name": "Troodon",
+      "hasMouthClaws": true,
+      "complete": true
+    },
+    {
+      "id": "Tyrannosaurus",
+      "folder": "Tyrannosaurus",
+      "name": "Tyrannosaurus",
+      "hasMouthClaws": true,
+      "complete": true
+    }
+  ]
+}
